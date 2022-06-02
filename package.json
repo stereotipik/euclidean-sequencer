@@ -1,8 +1,9 @@
 {
-  "name": "react-ts",
+  "name": "@stereotipik/euclidean-sequencer",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.0.0",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "react": "^18.1.0",
